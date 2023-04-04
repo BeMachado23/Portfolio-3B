@@ -20,16 +20,14 @@ img{
 
 body{
     background-image: linear-gradient(
-        125deg,
-        hsl(268deg 76% 22%) 0%,
-        hsl(266deg 70% 20%) 11%,
-        hsl(263deg 64% 19%) 22%,
-        hsl(262deg 59% 17%) 33%,
-        hsl(260deg 53% 16%) 44%,
-        hsl(259deg 48% 14%) 56%,
-        hsl(259deg 41% 12%) 67%,
-        hsl(261deg 35% 10%) 78%,
-        hsl(264deg 27% 8%) 89%,
-        hsl(260deg 10% 6%) 100%
-      );
+  125deg,
+  hsl(282deg 84% 12%) 0%,
+  hsl(282deg 85% 12%) 14%,
+  hsl(283deg 86% 11%) 29%,
+  hsl(281deg 81% 10%) 43%,
+  hsl(281deg 82% 8%) 57%,
+  hsl(283deg 90% 7%) 71%,
+  hsl(283deg 94% 6%) 86%,
+  hsl(282deg 100% 5%) 100%
+);
 }

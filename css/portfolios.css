@@ -18,7 +18,7 @@
 }
 
 .portfolioGrid p{
-    background-color: #2f0a58;
+    background-color: #32084b;
     width: 100%;
     height: 7rem;
     text-align: center;
@@ -37,4 +37,9 @@
 
 .link:hover{
     transform: scale(1.05);
+}
+
+.link img{
+    width: 300px;
+    height: 239px;
 }

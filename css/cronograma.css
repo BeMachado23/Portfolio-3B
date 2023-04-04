@@ -1,3 +1,11 @@
+.cronograma{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
 
 .cronograma {
 	padding-top: 1rem;
