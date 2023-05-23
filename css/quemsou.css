@@ -24,6 +24,7 @@
 
 .quemsou1stChild{
     margin-left: 12rem;
+    
 }
 
 .quemsou1stChild p{
@@ -37,12 +38,13 @@
 
 .quemsou1stChild label{
     position: absolute;
-    bottom: 0px;
-    right: 16rem;
+    bottom: -15px;
+    right: 15.5rem;
+    left: 10px;
     background-color:#420c61;
     border-radius: 5px;
     border: none;
-    padding: 4px 10px;
+    padding: 4px 3px;
     transition: background-color 0.3s ease-in-out;
     overflow: hidden;
     transition: .25s;
