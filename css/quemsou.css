@@ -8,9 +8,25 @@
 }
 
 .quemsouImg{
-    max-width: 50%;
+    max-width: 40%;
     margin-left: 5rem;
     position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+
+
+}
+
+ .quemsouImg img{
+     padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.226);
+    border-radius: 100%;
+    border-top-left-radius:  300px;
+    border-top-right-radius: 300px;
+    border-bottom-left-radius: 300px;
+    border-bottom-right-radius: 300px; 
 }
 
 .quemsouGrid h1{
@@ -38,9 +54,8 @@
 
 .quemsou1stChild label{
     position: absolute;
-    bottom: -15px;
-    right: 15.5rem;
-    left: 10px;
+    bottom: 1.9rem;
+    left: 10rem;
     background-color:#420c61;
     border-radius: 5px;
     border: none;
@@ -112,6 +127,7 @@
 
 .conteudoExtra{
     display: none;
+    margin-bottom: 3rem;
 }
 
 #ch:checked ~ .quemsouTexto .curriculo {
