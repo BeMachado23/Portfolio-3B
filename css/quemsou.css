@@ -109,6 +109,8 @@
     transition: .25s;
     width: 4rem;
     height: 4rem;
+    max-width: 2.3rem;
+    margin-left: 1rem;
 }
 
 .icon:hover{
