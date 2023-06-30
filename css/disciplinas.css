@@ -1,0 +1,53 @@
+.disciplinas{
+    padding-top: 1rem;
+    margin-bottom: 8rem;
+}
+
+.disciplinas h1 {
+	font-size: 7rem;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 2rem;
+    margin-bottom: 8rem;
+}
+
+.gridDiscipinas{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    gap: 5rem 0rem
+}
+
+.disciplinas p{
+    background-color: #32084b;
+    width: 100%;
+    height: 7rem;
+    text-align: center;
+    line-height: 7rem;
+    font-size: 2rem;
+    border-radius: 0px 0px 10px 10px;
+    transition: .5s;
+}
+
+.disciplinas p:hover{
+    background-color:antiquewhite;
+    color:#32084b
+}
+
+
+.disciplinas .button{
+    color: transparent
+}
+
+.disciplinas .link{
+    transition: .5s;
+}
+
+.disciplinas .link:hover{
+    transform: scale(1.05);
+}
+
+.disciplinas .link img{
+    width: 250px;
+    height: 189px;
+}
