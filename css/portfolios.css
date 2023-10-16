@@ -38,6 +38,7 @@
     transition: .5s;
 }
 
+
 .portfolios .link:hover{
     transform: scale(1.05);
 }

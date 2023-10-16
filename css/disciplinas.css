@@ -1,6 +1,9 @@
+
+
 .disciplinas{
     padding-top: 1rem;
     margin-bottom: 8rem;
+    
 }
 
 .disciplinas h1 {
@@ -13,10 +16,24 @@
 
 .gridDiscipinas{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     justify-items: center;
     gap: 5rem 0rem
 }
+.gridDiscipinas2{
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    gap: 5rem 0rem;
+    margin-top: 5rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.gridDiscipinas2 img{
+    width: 90%;
+}
+
 
 .disciplinas p{
     background-color: #32084b;
@@ -50,4 +67,20 @@
 .disciplinas .link img{
     width: 250px;
     height: 189px;
+}
+
+.frontend img{
+    width: 60rem;
+    height: 12rem;
+
+}
+.frontend{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+}
+
+.divtecnico{
+    display: flex;
+    justify-content: center;
 }
