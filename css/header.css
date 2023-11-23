@@ -19,7 +19,7 @@ li a{
 li a:after{
     content: "";
     position: absolute;
-    background-color: #449DDF;
+    background-color: #6b1ca0;
     height: 2px;
     width: 0%;
     left: 0;

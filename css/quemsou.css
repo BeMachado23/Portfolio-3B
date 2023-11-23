@@ -49,13 +49,14 @@
     font-size: 1.3rem;
     line-height: 1.8rem;
     font-weight: 300;
+    margin-bottom: 10px;
 }
 
 
 .quemsou1stChild label{
     position: absolute;
-    bottom: 1.9rem;
-    left: 10rem;
+    bottom: -1rem;
+    left: 1rem;
     background-color:#420c61;
     border-radius: 5px;
     border: none;
